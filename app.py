@@ -67,3 +67,5 @@ if prediction_proba>0.5:
 
 else:
     st.write('The Customer is not likely to churn.')
+
+
